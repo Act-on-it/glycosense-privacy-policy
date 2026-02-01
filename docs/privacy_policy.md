@@ -85,8 +85,6 @@ We may update this Privacy Policy from time to time. If material changes occur, 
 
 ## 14. Contact us
 
-For questions, or to request access, correction, or deletion of personal data, contact: support@yourdomain.com
+For questions, or to request access, correction, or deletion of personal data, contact: loudbronco@gmail.com
 
 ---
-
-Please replace `support@yourdomain.com` with your support email or URL before publishing this policy. The policy above covers the primary data flows in the app: Firebase services, analytics, AdMob, RevenueCat, and external AI providers used for image analysis.
